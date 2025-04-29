@@ -2,7 +2,7 @@
 
 function Searchbar() {
   return (
-    <div className="flex justify-center items-center py-4 border-gray-500">
+    <div className="flex justify-center bg-slate-950 items-center py-4 border-gray-500 max-sm:hidden">
         <form className="w-96 max-w-md">
             <div className="relative">
                 <input
